@@ -9,12 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
-    "@types/node": "^20.12.12"
+    "@types/node": "^20.14.10"
   },
   "dependencies": {
-    "inquirer": "^9.2.22"
-  }
+    "inquirer": "^9.3.5"
+  },
+  "description": ""
 }
